@@ -1,0 +1,56 @@
+newmtl BottomsSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConstructionWorker1_Bottom_Diffuse.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl EyesSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConstructionWorker1_Body_Diffuse
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl EyewearSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConstructionWorker1_Eyewear_Diffuse.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl HatsSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConstructionWorker1_Hat_Diffuse.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl ShoesSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConstructionWorker1_Shoes_Diffuse.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl TopsSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConstructionWorker1_Top_Diffuse.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl initialShadingGroup
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConstructionWorker1_Body_Diffuse
+Ni 1.00
+Ks 0.50 0.50 0.50
